@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload Document</title>
+</head>
+<body>
+    <h1>Upload Document</h1>
+    <form action="/" method="post" enctype="multipart/form-data">
+        <input type="file" name="file" accept=".pdf,.docx,.rtf">
+        <br>
+        <label for="tool">Choose the extraction tool:</label>
+        <select name="tool" id="tool">
+            <option value="fulltext">Fulltext</option>
+            <option value="llmsherpa">LLMSherpa (PDF only)</option>
+            <option value="spire">Spire (DOCX only)</option>
+        </select>
+        <br>
+        <input type="submit" value="Upload">
+    </form>
+</body>
+</html>

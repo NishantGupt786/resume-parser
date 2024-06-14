@@ -1,0 +1,14 @@
+click==8.1.7
+docx2txt==0.8
+Flask==3.0.3
+fulltext==0.5
+importlib-metadata==6.9.0
+Jinja2==3.1.4
+llmsherpa==0.1.4
+lxml==5.1.0
+marker-pdf==0.2.13
+MarkupSafe==2.1.3
+pdftext==0.3.10
+Spire.Doc==12.4.0
+systemd-python==235
+Werkzeug==3.0.3

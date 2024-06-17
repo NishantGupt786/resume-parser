@@ -1,7 +1,7 @@
 from flask import Flask, request, redirect, url_for, render_template, jsonify
 from werkzeug.utils import secure_filename
 from llmsherpa.readers import LayoutPDFReader
-import fulltext
+import textract
 import os
 import re
 from spire.doc import Document
@@ -29,10 +29,17 @@ def extract_text_from_docx_spire(filepath):
     document.Close()
     return text
 
+def extract_text_with_textract(filepath):
+    try:
+        text = textract.process(filepath).decode('utf-8')
+        return text
+    except Exception as e:
+        return f"An error occurred while extracting text: {str(e)}"
+
 @app.route('/', methods=['GET', 'POST'])
 def upload_file():
     if request.method == 'POST':
-        tool = request.form.get('tool', 'fulltext')
+        tool = request.form.get('tool', 'textract')
         if 'file' not in request.files:
             return redirect(request.url)
         file = request.files['file']
@@ -53,9 +60,8 @@ def upload_file():
                     if file_extension == 'docx':
                         text = extract_text_from_docx_spire(filepath)
                 else:
-                    text = fulltext.get(filepath, None)
-                if text:
-                    print(text)
+                    print(f"Using textract to extract text from {filepath}")
+                    text = extract_text_with_textract(filepath)
             except Exception as e:
                 text = f"An error occurred while extracting text: {str(e)}"
             finally:

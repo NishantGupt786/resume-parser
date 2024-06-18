@@ -1,4 +1,4 @@
-# pip install Flask llmsherpa spire.pdf spire.doc textract
+# pip install Flask llmsherpa spire.pdf spire.doc textract pdfminer.six
 
 # sudo apt-get install antiword abiword unrtf poppler-utils libjpeg-dev \ pstotext
 

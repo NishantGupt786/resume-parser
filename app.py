@@ -1,4 +1,4 @@
-from flask import Flask, request, redirect, render_template, send_file
+from flask import Flask, request, redirect, render_template, send_file, after_this_request
 from werkzeug.utils import secure_filename
 from llmsherpa.readers import LayoutPDFReader
 import textract
@@ -73,10 +73,17 @@ def upload_file():
                 concatenated_text += text + separator
                 os.remove(filepath)
 
-
         output_filepath = os.path.join(app.config['UPLOAD_FOLDER'], 'concatenated_text.txt')
         with open(output_filepath, 'w', encoding='utf-8') as f:
             f.write(concatenated_text)
+
+        @after_this_request
+        def remove_file(response):
+            try:
+                os.remove(output_filepath)
+            except Exception as e:
+                app.logger.error("Error removing or closing downloaded file handle", e)
+            return response
 
         return send_file(output_filepath, as_attachment=True, download_name='concatenated_text.txt')
 

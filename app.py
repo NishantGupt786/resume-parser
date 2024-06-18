@@ -1,4 +1,4 @@
-from flask import Flask, request, redirect, url_for, render_template, jsonify
+from flask import Flask, request, redirect, render_template, send_file
 from werkzeug.utils import secure_filename
 from llmsherpa.readers import LayoutPDFReader
 import textract
@@ -41,37 +41,46 @@ def extract_text_with_textract(filepath):
 def upload_file():
     if request.method == 'POST':
         tool = request.form.get('tool', 'textract')
-        if 'file' not in request.files:
+        if 'files' not in request.files:
             return redirect(request.url)
-        file = request.files['file']
-        if file.filename == '':
+        files = request.files.getlist('files')
+        if not files:
             return redirect(request.url)
-        if file and allowed_file(file.filename):
-            filename = secure_filename(file.filename)
-            filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename)
-            file.save(filepath)
-            text = "Failed to extract text from file."
-            try:
-                file_extension = filename.rsplit('.', 1)[1].lower()
-                if tool == 'llmsherpa' and file_extension == 'pdf':
-                    pdf_reader = LayoutPDFReader(llmsherpa_api_url)
-                    doc = pdf_reader.read_pdf(filepath)
-                    text = doc.to_text()
-                elif tool == 'spire':
-                    if file_extension == 'docx':
-                        text = extract_text_from_docx_spire(filepath)
-                elif tool == 'pdfminer':
-                    text = extract_text(filepath)
-                else:
-                    print(f"Using textract to extract text from {filepath}")
-                    text = extract_text_with_textract(filepath)
-            except Exception as e:
-                text = f"An error occurred while extracting text: {str(e)}"
-            finally:
+
+        concatenated_text = ""
+        separator = "\n\n--- End of Document ---\n\n"
+
+        for file in files:
+            if file and allowed_file(file.filename):
+                filename = secure_filename(file.filename)
+                filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+                file.save(filepath)
+                try:
+                    file_extension = filename.rsplit('.', 1)[1].lower()
+                    if tool == 'llmsherpa' and file_extension == 'pdf':
+                        pdf_reader = LayoutPDFReader(llmsherpa_api_url)
+                        doc = pdf_reader.read_pdf(filepath)
+                        text = doc.to_text()
+                    elif tool == 'spire':
+                        if file_extension == 'docx':
+                            text = extract_text_from_docx_spire(filepath)
+                    elif tool == 'pdfminer':
+                        text = extract_text(filepath)
+                    else:
+                        text = extract_text_with_textract(filepath)
+                except Exception as e:
+                    text = f"An error occurred while extracting text from {filename}: {str(e)}"
+                concatenated_text += text + separator
                 os.remove(filepath)
-            return render_template('result.html', text=text)
+
+
+        output_filepath = os.path.join(app.config['UPLOAD_FOLDER'], 'concatenated_text.txt')
+        with open(output_filepath, 'w', encoding='utf-8') as f:
+            f.write(concatenated_text)
+
+        return send_file(output_filepath, as_attachment=True, download_name='concatenated_text.txt')
+
     return render_template('upload.html')
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000, debug=True)
-

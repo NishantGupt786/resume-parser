@@ -1,0 +1,1400 @@
+MITHILESH RAJA
++91-7010095291
+mithijuly2@gmail.com
+Chennai
+PROFILE SUMMARY:
+3+ years of experience as DevOps Engineer in Installation, Configuration Management
+activities in a DevOps tools, CI/ CD Implementation, supporting development and
+Deployment operations in different environments with Linux Administration activities.
+Understanding/Implementation of DevOps across all the best practices with set of tools
+and technologies.
+Hands on experience in Platform of all the DevOps tools can install / upgrade / patches
+along with troubleshooting in Linux Environments.
+Experience in using Build Tools such as MAVEN,ANT and GRADLE.
+Extensively worked in Continuous integration tools like Jenkins.
+Resolving build failures and analysis and provide support to developers if needed.
+Hands on experience with deploying the code through web application servers like
+Tomcat.
+Experience in Azure Devops solutions using Azure Boards, Azure Repos, Azure Pipelines
+and Azure Artifactories.
+Hands on experience on Docker and knowledge on Kubernetes.
+Experience in Repository management tools like Artifactory to store the artifacts and
+dependencies.
+Managed Azure services like virtual machines, Load Balancers, Azure container registries,
+Azure Backups, Networks(NSG), Azure Monitoring, Azure App Services, RBAC Roles in
+Azure Active Directories.
+Hands-on experience on Terraform scripts.
+Good Experience to install and configuring the projects in SonarQube with Best
+experience with analysis of the metrics. Creating the profiles and quality gates to scan the
+source code with particular languages.
+Problem analysis and Troubleshooting and provide higher level of support.
+Good communicative, interpersonal and intuitive, analysis skills with ability to work
+efficiently in both independent and teamwork environments with positive work attitude.
+
+TECHNICAL SKILLS:
+Operating Systems
+Version Control
+Build Tools
+IDE
+Continuous Integration/Deployment
+Configuration Management
+Code Quality
+Servers
+Continuous Planning
+Package Management
+Code Quality Analysis & Review
+Containerization
+Cloud Technologies
+
+: Windows, Linux
+: Bitbucket, GitHub, GIT
+: Maven, Gradle.
+: VS Code.
+: Azure Devops, Jenkins
+: Ansible
+: SonarQube.
+: Azure VM, Apache Tomcat
+: Azure Boards, JIRA, Confluence.
+: Azure Artifactory, Artifactory JFrog
+: SonarQube
+: Docker, Kubernetes
+: Azure / AWS / Terraform.
+
+EXPERIENCE:
+Client
+Role
+Company
+Duration
+Tools
+OS
+
+: Digital Telecommunication.
+: Build & Release Engineer
+: SPELL CONSULTANCY SERVICES, Coimbatore
+: April 2019 –September 2020( internship in (SQL/PLSQL)
+September 2020 – February 2023 (Devops Engineer)
+: Confluence, JIRA, Git, Bitbucket, Jenkins, Artifactory, Docker, Kubernetes, Shell
+Terraform, Tomcat.
+: Windows, Linux.
+
+Responsibilities:
+Installed and configured Jenkins for Automating build, deployments and test execution and
+providing a complete automation solution.
+Implemented Continuous integration and Continuous Deployment using Jenkins and
+Bamboo.
+Working with Bit Bucket, Apache Maven, Apache Tomcat, Jenkins, SonarQube and
+Artifactory.
+Configuring all the applications to Jenkins for the build and deploy Continuous Integration
+process.
+Worked with Docker containerization with building images using Jenkins.
+Working with Jenkins multi master with parallel execution of Jenkins jobs over Slave
+nodes.
+Installation/upgrade Jenkins version & Jenkins plugins when it is needed with Change
+Request.
+Working with Bit Bucket complete administration to create projects and Upgrades along
+with user administration.
+Working with SonarQube to create quality gates and profiles as per languages with good
+understanding of all the Metrics.
+Working with Ansible playbooks scripts to automate the configuration changes in all the
+60+ slave nodes.
+Doing POC’s with few of AWS Services like EC2 Instances, Auto Scaling, S3, EBS, IAM and
+Cloud watch with VPC Networking
+Experience in deploying applications on Tomcat and Web logic servers.
+Analysis error logs in all Jenkins and Bit Bucket, Artifactory, SonarQube and prepared with
+proper resolutions and documentation of the issues.
+Prepared documents and given presentation.
+Participate in team meetings and value added to the project.
+Provided support to developers to their build issues and access issues.
+
+Client
+Role
+Company
+Duration
+Tools
+OS
+
+: Mercedes Benz, Toyota
+: Azure Cloud and Devops Engineer
+: OUTSTAGER CONSULTANCY SERVICES, Chennai
+: April 2023 – July 2023
+: Azure Devops, Azure Services, Azure Adminstration, Azure SQL Database
+: Windows
+
+Responsibilities:
+Worked in highly collaborative operations team to steam line the process of implementing
+security confidential
+Azure cloud environment and introduced best practices for remediation.
+Gathering the requirements from the clients about the existing applications to apply
+security measures.
+Migrated the on premises worloads to Azure cloud based on requirements
+Experience in VPN and Express route, Azure DNS, Traffic manager,load balancers,
+Backups, App services, Security center Iaas and Saas
+Developed automation syatem using powershell scrits and json templates to remediate the
+azure services
+Experience in troubleshooting the sql server connection issues on incremental and
+maintaining the database and enabling data backup.
+Experience in creating a build and release pipelines in Azure devops and deploy in Azure
+vm using deployment groups in azure devops.
+Exerience in creating Resource group for Azure VM to tag them while Multiple Vm`s for
+one applications.
+
+ACADEMIC HISTORY:
+Bachelor’s degree in Computer Science and Engineering (B.E)
+2012 - 2016
+MEC
+
+CERTIFICATIONS:
+Certified Oracle Cloud Infrastructure Foundations 2021
+Certified Microsoft Azure Fundamentals 2023
+
+(Mithilesh R)
+
+
+
+--- End of Document ---
+
+SANJAY
+Gmail:- sanjaydevops111@gmail.com
+
++91 8074983848
+
+SUMMARY
+●
+●
+●
+●
+
+●
+●
+●
+●
+●
+
+Over Around 4.8 years of IT Experience and 3.8 years in Azure & AWS devOps Engineer with CICD, Configuration Management,
+Scripting on Cloud, & On Premises.
+Automated the build & deployments for many applications from end-to-end using CICD strategies with various DevOps tools
+and technologies.
+Experienced as Lead for building backend infrastructure from scratch using core cloud services (AWS – Developer Tools, IAM,
+CFT, R53, VPC, S3, EC2, ELB, EBS, Lambda, Auto-Scaling, Cloud Watch & Cloud Trail, Azure- Repo, Pipeline, Artifacts, AD, & ARM).
+Expertise in DevOps, Release engineering, Configuration management, Deployment Automation, Cloud Infrastructure,
+Automation with Agile methodologies which incorporates Azure, AWS, Gcp, AKS, Bitbucket, Jenkins, IBM UCD, Nexus, JFrog,
+SonarQube, Ansible, Docker, Kubernetes, Tomcat, JBOSS, WebLogic, Nginx, Linux & Shell Scripting.
+Experienced in automating the deployment of Nginx, Tomcat, JBoss and Elastic Stack using Ansible.
+Hands-on experience with Docker containers and Kubernetes clusters with its configuration based on requirements
+and maintaining the Docker hub for container images.
+Expertise in working as Linux Administration & Release Engineer on Multi data centre project for successfully migrating
+150+active Critical Dependency Production applications into secondary data centres and performing the shakeout strategies.
+Actively involved in monitoring system logs, metrics using tools like Splunk, Elk, Hyperic, Nagios, CloudWatch and Zabbix.
+Engaging with Enterprise Shared Services which are dependent on multiple applications and come up with the strategies to
+implement it for production environment setup and synchronization with multiple data centers.
+
+TECHNICAL SKILLS and Used Infra:
+Software Build Tools
+Version & Release Control Systems
+Config. Management Tools
+Cloud & Containers
+
+CICD Tools
+Web & Middleware Services
+DB Technologies
+Ticketing/Documentation Tools
+Operating Systems
+Business Management
+Monitoring
+
+Maven v3.0.3, Nexus Repository Manager v2.1, JFrog v7.7, Nexus IQ Server v1.38
+SVN 1.8, GIT 2.12 & BitBucket v4.13, Gitlab
+Ansible
+AWS - CodeCommit, Code Pipeline, EC2, S3, EBS, Lambda, ECR, IAM, VPC, CFT, Cloud
+Watch, Auto Scaling, R53, Azure – Storage, DevOps, Migrate, Google - Cloud Code, Cloud
+Build, Cloud IAM, Cloud Storage, Terraform, Docker & Kubernetes
+Cloudbees Jenkins 2.x/Hudson 3.2, IBM Clear Quest 8.0.1, IBM UCD, Bamboo 5.1x
+JBOSS AS 7.1/EAP 6.3, Apache 2.2/4, IBM WebSphere 6.x/7, Nginx 1.12/13, Tomcat 8.x/9,
+WebLogic 11g/12cR1/R2, VMware ESXi 6.x
+Oracle 12c, MySQL, Cosmos DB
+JIRA v7.3.1, Bugzilla v4.4, Confluence v5.8.
+RHEL v6.x/7.x, Ubuntu v13.x/14.1, Cent OS v5.x/6.x, Windows Server 2008, 2012, 2016
+Tableau, iTIL v3 Foundation, Agile Methodology
+ELK, Nagios, Zabbix, Cloudwatch
+
+Programming & Scripting
+
+Java, Shell Scripting, Python, Groovy, Go
+
+Infra-provisioning tools
+
+Terraform, ARM Templates, Cloud formation, Python boto 3
+
+Build Tools
+
+Maven
+
+1
+
+Static-code-analysis
+
+Sonar-qube
+
+Containerization tools
+
+Docker
+
+Image-Building tools
+
+Packer
+
+Application-Monitoring
+
+Elastic search engine, Logstash, Kibana
+
+System-level-monitoring
+
+Prometheus
+
+Visualization tools
+AWS-Services
+
+Grafana, Kibana
+Ec2, VPC, Subnets, Internet gateway , Route 53, Cloud-watch, SQS, SNS, Cloudformation,EBS, EFS, Guard-Duty, AWS Config, , Ops-Work, Trusted advisor, LoadBalencer, Launch Configurations, Ansible etc
+
+Virtualization tools
+
+Vagrant
+
+App servers
+
+Tomcat
+
+Web Server
+
+Apache, Httpserver, Nginx
+
+Knowledge on app servers
+
+Web logic, Websphere, Jboss
+
+EMPLOYMENT HISTORY
+Worked with ADAA IT SOLOUTIONS PVT LTD
+
+Jan 2019-- Prsent
+
+Client: Farmers Insurance
+Role: Cloud /DevOps Eng
+
+Aug 2022 – till date
+
+Responsibilities:
+●
+●
+●
+●
+●
+●
+●
+
+●
+●
+●
+
+●
+
+Developing the deployment & delivery pipelines in Jenkins using groovy-based DSL and integrating it with various DevOps
+Tool such as Gitlab, Maven, Jenkins, Nexus, UCD, SonarQube, Selenium, for ensuring code quality during continuous delivery.
+Developing Azure ARM in JSON and YAML to automate orchestration and the environment provisioning on cloud to
+maintain the stability of the applications on each environment.
+Developing Python and Bash scripts for DNS routing & networking to perform post deployment activities on production and
+trigger the calls to specific target hosts and APIs to retrieve the metadata from the logs and attach to release notes.
+Automated the deployment process by writing Perl, Python scripts in Jenkins.
+Automated the cloud deployments using Ansible, Python and AWS Cloud Formation Templates.
+Administering build & deployment activities for on-premises and cloud applications to troubleshoot critical build & production
+deployment issues.
+Implementing CICD strategies using Agile methodology by integrating various DevOps tools in the pipelines (Git, Azure Repo,
+Maven, Jenkins, AKS, Nexus, UCD, Ansible, Azure-VM, Blob, ARM, IAM, Terraform, Autoscaling, Docker, Kubernetes) with
+Python, YAML, Groovy & Go scripting languages for automation of cloud & on-premises applications.
+Working knowledge of web and application server’s management and configuration (e.g., Load Balancers, Nginx, Apache)
+Used Jenkins pipelines to drive all micro services builds out to the Docker registry and then deployed to Kubernetes, Created
+Pods and managed using Kubernetes
+Deploying and managing applications on docker containers using docker images written in Docker file, and Kubernetes
+clusters, hosted on cloud using Kubectl and for inspecting the cluster resources to create, update and delete
+components.
+Developing Terraform scripts in JSON for configuring the resources, application packages and for building, changing &
+versioning the infrastructure services to provide the monitoring alarms on cloud and on-premises environments.
+
+2
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Used ELK (Elasticsearch, Logstash and Kibana) for name search patterns for a customer.
+Implemented a POC to integrate ELK Stack to an existing framework for real time log aggregation, analysis, and querying
+(Elasticsearch, Logstash, Kibana).
+Installed Logstash rpm and started the Logstash in our environment.
+Used Elasticsearch for name pattern matching customizing to the requirement.
+Installed Logstash-forwarder and run Logstash-forwarder to push data
+Used Kibana plugin to visualize for Elasticsearch.
+Implemented new ELK cluster for enterprise logging and Maintained Elasticsearch, Logstash, Kibana.
+Created different dashboards based upon the level of user and this was integrated with the customer care support UI.
+Troubleshooting any build issue with ELK and work towards the solution.
+Creating Ansible playbooks & roles from scratch and integrating them into Jenkins jobs for continuous delivery framework to
+automate the deployment process into infrastructure as code strategy.
+
+Environment: Azure - Repo, Pipeline, Artifacts, Blob, ARM, Traffic Manager, Maven, Cloudbees Jenkins, Nexus, JFrog,
+Terraform,Ansible, Docker, Kubernetes, Service Now, Shell Scripting, Python, JBOSS, Nginx, Tomcat, JIRA, Confluence.
+
+Client: Telecom Italia
+
+Dec 2020 – July 2022
+
+Role: Associate consultant
+Responsibilities:
+●
+
+Automating the build and deployments for different platform specific applications from end-to-end on AWS EC2, EBS, S3, IAM,
+Route53, Lambda, SNS to reduce manual interventions for application teams in agile environment using DevOps strategies.
+● Developing the deployment & delivery pipelines in Jenkins and integrating it with various application specific testing tools
+(Selenium, Cucumber & SonarQube) for code quality during continuous delivery.
+● Implementing CICD strategies to advance the DevOps methodologies on cloud & on-prem environment using AWS Lambda as
+server less architecture to improve the agile development.
+● Written python scripts for performing post deployment actions and trigger the calls to specific hosts or API to retrieve the
+metadata from the logs and attach to release notes.
+●
+●
+●
+●
+●
+
+Implemented the rapid application development and iteration by making it easy to deploy, update and manage the
+applications and services on ECS and EKS.
+Building, publishing the customized interactive reports and dashboards, report scheduling using Tableau server.
+Developing Tableau workbooks, visualizations and dashboards from multiple data sources using Data Blends and using Tableau
+desktop.
+Worked on providing to manage environment for deploying and scaling the containerized applications using Kubernetes.
+Coordinated in all aspects of production release management lifecycle including development and test activities by engaging
+with different application teams and provide DevOps solutions to improve their current build & deployment process for
+automation with various CICD tools.
+
+Environment: AWS – Developer Tools, CFT, EC2, S3, IAM, R53, Lambda, Auto scaling, ELB, VPC, Beanstalk, RDS, ECS, EKS,
+BitBucket, , Maven, Cloudbees Jenkins, Nexus, JFrog, IBM Clear Quest, IBM UCD, Kubernetes, Tableau, Service Now, JIRA,
+Confluence, Shell Scripting, Python, JBOSS, Tomcat, WebLogic.
+
+3
+
+Client: Walmart
+Role: Azur/DevOpsEngineer
+Responsibilities:
+
+Feb2019 – Oct2020
+
+●
+
+Managed virtual Linux and Windows servers on Azure devops & AWS by creating ansible nodes through open-source ansibleserver.
+
+●
+
+Incorporated in automated tests using shell scripts and security scans with SonarQube and CloudWatch into CI/CD pipeline
+inDev, Test environments on Azure .
+Delivered solutions to improve the CI/CD pipeline process, cloud architecture, deployment for AWS & Azure Private and
+Public Cloudand automate the agile methodologies.
+Expertise in Identity Access Management (IAM), created users, groups and assigned roles based on their duties and generated
+EC2 instances and installed applications on Amazon VPC.
+Actively participated in ongoing design, implementation and maintenance of systems and tools on AWS cloud environment.
+Experienced in reviewing routine Web Vulnerabilities scans and bringing in resources to remediate any open issues.
+
+●
+●
+●
+●
+
+Environment: AWS - EC2, S3, EBS, VPC, IAM, AWS CLI, AKS, Cloud Formation, CloudWatch, SVN, GIT, Vnet , Jenkins, Maven, Nexus,
+Linux, Ruby, Perl, Shell Scripting, Python, JBOSS, WebLogic, Apache.
+
+ACHIEVEMENTS
+●
+
+Migrated more than 50 Critical Dependency Applications to Multi Cloud environments successfully with proper CICD strategies
+and enabling the synchronization with Production.
+
+●
+●
+●
+
+Automated the build, test, and deployments with various Devops tools integration on Azure DevOps, AWS Stack and On-prem.
+Implemented best CICD practices & strategies in multiple portfolios by engaging with Enterprise Shared Services.
+Delivered solutions to improve cloud architecture, deployment for AWS Private/Public Cloud and Docker containerization.
+
+Name: A. Sanjay Kumar.
+Place: Karimnagar.
+
+4
+
+
+
+--- End of Document ---
+
+Accomplished MLOps, Build & Release, and DevOps Engineer with over 5 years and 7 months of experience. Expert in automating the transmission of diagnostic logs from storage accounts to log analytics workspaces. Certified Azure Developer Associate with demonstrated ability in CI/CD pipeline setup, and end-to-end process quality improvement across multiple functions. Proficient in creating and maintaining resilient infrastructures to streamline service delivery in development, QA, and production environments.
+
+
+
+
+
+
+
+CONTACT ME AT
+
+
+
+Shivendratiwari9617@gmail.com
+
+
+
++91-8867932917
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+CORE COMPETENCIES
+
+Strategic Planning & Implementation
+
+Cloud Infrastructure Management
+
+Configuration Management
+
+DevOps & MLOps Architecture & Engineering 
+
+Continuous Integration & Delivery / CI & 
+
+CD Pipeline Setup
+
+Client / Stakeholder Engagement
+
+Team Building, Mentoring & 
+
+Leadership
+
+Project Planning & Execution
+
+Cloud Migrations
+
+Monitoring and Alerting
+
+Backup & Disaster Recovery Planning
+
+Infrastructure as code (IaC)
+
+Data Pipeline Design & Orchestration
+
+Automation & Workflow Development
+
+Security Best Practices in Cloud Environments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EDUCATION & CERTIFICATIONS
+
+B.E. (Mechanical Engineering) from RGPV, BHOPAL 
+
+
+
+Microsoft Certified: Azure Developer Associate (AZ-204)
+
+
+
+
+
+
+
+             CERTIFICATIONS 
+
+
+
+AzureDeveloper Associate (AZ-204)
+
+
+
+IT SKILLS
+
+Version Control System Tools: GIT
+
+Operating Systems: Windows 9x/ 2000/ XP/ 7, Linux
+
+Configuration Management: Ansible 
+
+Scripting: Python, Shell Scripting
+
+Build Tools: ANT, Maven
+
+Database: MySQL
+
+Web Server: Apache,Nginx
+
+Application Server: Apache Tomcat
+
+Continuous Integration Tools: Jenkins
+
+Cloud Environment: AWS, Azure, GCP
+
+Devops: Docker, Kubernetes, Terraform
+
+Bug Tracking Tool: SonarQube
+
+Monitoring: Grafana, Prometheus, ELK
+
+
+
+
+
+SOFT SKILLS
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+SHIVENDRA KUMAR TIWARI
+
+
+
+
+
+PROFILE SUMMARY
+
+Over 5 years 7 months of experience as a Build & Release / DevOps / MLOps Engineer and Configuration Management Professional with extensive knowledge in automating the sending of diagnostics logs from storage accounts to e log analytics workspaces
+
+
+
+Established capabilities in designing, building & maintaining a stable / effective infrastructure to optimize service delivery across development, QA & production environments throughout the software development lifecycle (SDLC)
+
+
+
+Experienced in DevOps concepts like Build Automation, Continuous Integration (CI), Continuous Deployment (CD), Infrastructure as code technologies (Terraform) and Cloud computing, Container orchestration platforms like Kubernetes and AWS ECS
+
+
+
+In-depth understanding of load balancers, DNS, virtual & networks and firewalls in cloud environments with knowledge in Azure AD authentication and setting up Azure Production environments with Production subscriptions
+
+
+
+In-depth knowledge of GCP, AWS & Azure platform features & capabilities; contributed in architecture and deployment of Symantec public/ private cloud platforms (IaaS, PaaS & SaaS) across Amazon Web Services
+
+
+
+Impressive success in monitoring, troubleshooting, maintaining & continuously improving building & deployment processes; using consistent DevOps & MLOps approach to improve all phases of process & ensured end-to-end quality across functions
+
+
+
+Led successful implementation of best practices on use cases of Automation Tools using Jenkins/Bamboo and integration with Docker, Kubernetes, Jenkins, Terraform, Ansible 
+
+
+
+Worked with & leaded countless remote teams, helped them to achieve faster release time and solid Cloud Infrastructure
+
+
+
+
+
+PROJECTS
+
+Dec’21 – Present: GenySys
+
+Role: MLOps Engineer 
+
+Databas: RDS
+
+Cloud Technologies: VPC, EC2, S3, Cloud Watch, Cloud Front, ECS, IAM
+
+Operating Systems: Linux, Ubuntu
+
+Scripting languages: Shell Scripting, python 
+
+Infrastructure as code: Terraform 
+
+CI/CD Tools: Jenkins
+
+Version Control Systems: GIT, Git Hub
+
+Automated Build Tools: Jenkins
+
+Web Server: Nginx 
+
+
+
+Dec’18 – Nov’21: SandBox
+
+Role: DevOps Engineer (GCP)
+
+Database: SQL
+
+Cloud Technologies: VPC, VM, GCS, Stack driver, SQL, Monitoring, GKE, IAM
+
+Operating Systems: Ubuntu
+
+Scripting languages: Shell Scripting, python 
+
+Infrastructure as code: Terraform 
+
+CI/CD Tools: Jenkins
+
+Version Control Systems: GIT, Git Hub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WORK EXPERIENCE
+
+Since Dec’21: DevOps Engineer in Apexon, Bengaluru
+
+
+
+Apr’18 to Dec’21: DevOps Engineer in SWAGG TECHNOLOGIES PRIVATE LIMITED, Bengaluru
+
+
+
+
+
+Roles & Responsibilities:
+
+Integrating MLflow into existing GCP pipelines to enable seamless model training & deployment; implementing monitoring of ML models using Stack driver & custom metrics
+
+Coordinating with Data Scientists to optimize model deployment; spearheading transformation of traditional CI/CD pipelines to accommodate ML workflows
+
+Implementing data versioning practices for ML datasets; automating ML model retraining pipelines; collaborating on version-controlled configuration using Terraform Cloud
+
+Leading build, change and destroy infrastructure with Terraform; managing organizational standards by maintaining source code in Git for various applications.
+
+Setting up the new Build Environment for various products in a Linux Environment; maintaining & extending configuration & build sub-systems on Git; creating & maintaining development & release branches on Git.
+
+Using Maven as a build tool to automate the process of building artifacts; supporting and helping create dynamic views and snapshot views for end users
+
+Implementing Jenkins continuous integration tool, including installing & setting up jobs/ plans for deployment; installing Jenkins on a Linux Machine and create a Master and Slave configuration for multiple parallel builds.
+
+Using AWS services like EC2, S3, EBS, CloudWatch, and ELB for building infrastructure; participating in the design and implementation phases for new and existing products with a focus on AWS technical knowledge
+
+Helping engineering teams implement new technologies in development for future production deployment; actively monitoring and administering applications and hosting environment to increase efficiency, improve reliability, and minimize downtimes
+
+Measuring, optimizing & tuning system performance to ensure reliability and high availability in a 24/7 production environment
+
+Using Docker Container for running different individual services & optimizing infrastructure cost; automating manual processes by writing Shell scripts
+
+Deploying applications using Tomcat; building and deploying Java applications on different environments like QA, UAT, pre-Prod and prod
+
+Providing production environment support, including major release or emergency hot fix deployments and scheduling and coordinating operational job cycles or activities
+
+Working with Azure DevOps Azure Data Factory to design & orchestrate data pipelines for data integration and transformation; collaborating with data engineers and data scientists to ensure efficient data processing and analytics workflows
+
+Configuring Azure Active Directory (AD) for user authentication and access management
+
+Integrating AD with Azure resources to ensure secure and controlled access to applications and services; setting up monitoring and alerting mechanisms using Azure Monitor, Application Insights, or other monitoring tools
+
+Creating & maintaining continuous integration and deployment pipelines using Azure DevOps tools such as Azure Pipelines, Release Management, and GitHub Actions
+
+Troubleshooting issues related to application performance, infrastructure or deployment; implementing backup and disaster recovery strategies for Azure resources, including data backups, replication, and failover configurations
+
+Designing, implementing & managing infrastructure as code (IaC) using tools like Terraform or Deployment Manager to provision and maintain GCP resources
+
+Developing automation scripts and workflows to streamline deployment, scaling, and management of applications and services on GCP
+
+Implementing security best practices in GCP, including identity and access management (IAM), network security, and encryption mechanisms.
+
+Staying up-to-date with the latest trends and advancements in GCP services, DevOps practices, and cloud technologies.
+
+--- End of Document ---
+
+MV Ramana		    					: mvr.07031988@gmail.com                                                    			                       			: +91-9620278217
+
+  
+
+Objective:
+
+Profoundly self-motivated working solo with extensive experience in Performance Testing and looking for a professional organization where I can stretch my current capabilities and eventually be able to act as a Performance Test Engineer.
+
+
+
+Professional Summary:
+
+
+
+Having 5 Years of experience in Software Testing
+
+Having around 4.7 Years of experience in Performance Testing
+
+	   Expertise in designing, developing and enhancing automated test scripts using Performance Testing tool Load Runner, IBM RPT.
+
+	   Good exposure in HP Controller, HP ALM & HP Site scope. 
+
+Expertise in Performing Load testing using Load Runner (Creating Virtual User Scripts, Designing the scenario in Running Load Test Scenario, Monitoring the Performance, Analyzing Results) in Windows and Unix Environments.
+
+Worked on Multiple protocols like Web (HTTP/HTML), Web Services, HTTP/XML, AJAX Truclient, SAP Web, SAP GUI & Oracle NCA.
+
+Experience in Telecom, Insurance, Retail, E-Learning, Health domains and Payment Gateway.
+
+Ability to drill down on results, monitoring the Servers by using HP Open View, Site scope, PerfMon, New Relic & Oracle Grid.
+
+Having knowledge in Tools like HP QC and ZIRA.
+
+Effective communication skills, good analytical abilities, zeal in learning new tools and willing to work in Challenging Environment.
+
+
+
+
+
+Education:
+
+
+
+Completed B.Tech (ECE) in 2009 from JNTU Hyderabad.
+
+
+
+
+
+
+
+
+
+
+
+Achievements:
+
+Got Bravo and POB Award from the Perf-Engg IBU in Tech Mahindra.
+
+Conducted POC for ACS Server by replicating a real life physical device through a script. This script is the first of its kind that we had done in our experience. Got Appreciations from the Client.
+
+
+
+Work Experience:
+
+
+
+Working as Senior Test Engineer in Tech Mahindra, Bangalore from September  2013 to Till Date
+
+Worked as Consultant in Cap Gemini, Bangalore from June, 2013 to September 2013.
+
+Worked as Test Engineer in AppLabs A CSC Company, Hyderabad from August, 2011 - March 2013.
+
+Technical Skills:
+
+
+
+Operating System: 		Windows, Linux
+
+Testing Tools: 			HP Loadrunner, HP ALM, IBM RPT, IBM RIT & ZIRA
+
+Monitoring Tools: 		HP Site scope, New Relic, PerfMon, CA Wily and Oracle Grid
+
+Web/Application Servers           Apache HTTP Server, Web Logic Server, JBoss and Tomcat.
+
+Languages:		            C Language.
+
+DBMS:                                       My SQL, Oracle EBS & OBIEE.
+
+
+
+Project Details:
+
+Project 1
+
+
+
+Title:				:	SharePoint - 2013
+
+Client:				:	Applied Materials (Santa Clara, USA)
+
+Environment:			:	SharePoint
+
+Performance Tool:		:	HP Load Runner 12.02 and HP ALM
+
+Role:				:	Team Member (Individual Contributor)
+
+Protocol			:	Web(HTTP/HTML), SAP Web, SAP GUI                                                                               
+
+
+
+Description:
+
+Applied Materials India is the second largest engineering pool for Applied globally, focused on design, software, manufacturing engineering and IT, supporting all business units within the company globally. The Region has established centers of competency in Computer Aided Engineering and Reliability (CRAMS), and multiple labs supporting mechanical and electrical systems design, verification and reliability testing. A pioneer in industry-academia partnership, Applied also has multiple labs at IIT Bombay, a Nanotechnology lab, a Chemistry Laboratory for Energy & Nano-electronics and an Exploration Center. Together with IIT Bombay, Applied Materials has also introduced a Joint Certification Program on Semiconductor Manufacturing Technology for the first time in India 
+
+		
+
+		Responsibilities:
+
+		
+
+Designing the business scripts for the client specified scenarios
+
+Involved in doing all major Enhancements like Correlation & Parameterization
+
+Designed the scenarios in Controller and HP ALM
+
+Involved in designing Load Test Scenarios and Incremental Load Test scenarios in Controller
+
+Collating the results after completing the executions and involved in preparing the test reports.
+
+Generating the Analysis reports and analyzing the performance issues in the servers.
+
+Identifying the Bottlenecks in the Application
+
+Preparing the Performance testing report and sharing the report with the client
+
+
+
+
+
+Project 2
+
+
+
+Title:				:	ACS
+
+Client:				:	RJIL (Reliance), Mumbai
+
+Environment:			:	ACS and Oracle DB
+
+Performance Tool:		:	HP Load Runner 11.52 and IBM RPT
+
+Role:				:	Team Lead (Conducted POC)
+
+Protocol			:	Web(HTTP/XML)             
+
+
+
+Description:
+
+ACS is mainly used to send the response to the Device (Dongle, SET-TOP Box., etc). CPE WAN Management Protocol (CWMP) is a text based protocol used to communicate between the device and ACS. The Request flows between the device CPE (customer-premises equipment) and Auto Configuration Server (ACS) are transported over HTTP/XML. At this level (HTTP/XML) CPE is behaving in the role of client and ACS in the role of HTTP server. This essentially means that control over the flow of the provisioning session is the sole responsibility of the device. There are three main requests that are flowing in between the ACS and Device. They are Device Registration, Health Ping and Periodic Message.
+
+The session is always started by the device (CPE) and begins with the transmission of an Inform message. Its reception and readiness of the server for the session is indicated by an InformResponse message. That concludes the session initialization stage. The Request of the next two stages depends on the value of the flag HoldRequests (CWMPID). Every request from the device is validated by CWMP ID. If the value is false the initialization stage is followed by the transmission of device requests, otherwise ACS orders are transmitted first. The following description assumes the value is false. The message from the device will differ from device to device.  These are the common message for the Device Registration (GetParameterNames, GetParameterValues, SetParameterValues, GetParameterAttributes, and SetParameterAttributes).
+
+		
+
+		
+
+		
+
+		Responsibilities:
+
+Conducted the POC for the ACS with the help of the Developers
+
+Designed the manual script by capturing the request flowing between the Device and ACS Server
+
+Created the HTTP/XML load runner script by adding the headers in the script
+
+Device Registration done through the script, replicating the real user
+
+
+
+Project  3
+
+
+
+Title				:	ESTEL
+
+Client				: 	RJIL (Reliance), Mumbai
+
+Environment			:	Java, Jboss Web Server and Oracle DB
+
+Performance Tool		:	HP LoadRunner 11.52 and IBM RPT
+
+Server Monitoring Tool	:	JVM.
+
+Role				:	Team Lead
+
+Protocol			:	Web Services             
+
+
+
+Description:
+
+
+
+	Estel’s e-Recharge platform to a new high in terms of offering complex and highly customized technology to its customers to meet extremely challenging market requirements in different countries and continents. In addition to the complexities involved in a common platform to service multiple operators, this deployment in Reliance offers highly flexible user interfaces to the merchant network. The interfaces launched, to begin with, are Mobile Device Applications, Web Portals and POS terminals and the merchants are free to use any of these interfaces. This common platform also takes care of diverse methodologies for recharge available with different operators including managing both Voucher based and Voucher less top ups. The platform will also be addressing the corporate segment in Reliance wherein the corporate will manage a one-shot recharge of mobile accounts of all eligible employees through a user friendly web portal.
+
+		
+
+		Responsibilities:
+
+Identified the Business critical scenarios in the Application
+
+Designing the business scripts for the client specified scenarios
+
+Involved in all major Enhancements Parameterization
+
+Involved in designing Load Test Scenarios and Stress Test
+
+Executed the designed scenarios in Controller
+
+Collating the results after completing the executions and involved in preparing the reports.
+
+Generating the Analysis reports and analyzing the performance issues in the servers.
+
+Tracing the Bottlenecks in the Application and suggested the fine tuning areas in servers
+
+
+
+Project  4
+
+
+
+Title				:	R-Pay
+
+Client				:	RPSL (Reliance Payment Solutions), Mumbai
+
+Environment			:	.Net, Apache Tomcat and MySQL
+
+Performance Tool		:	HP Load Runner 11.52
+
+Server Monitoring Tool	:	Oracle Grid.
+
+Role				:	Team Member
+
+Protocol			:	Web(HTTP/HTML) 
+
+
+
+Description:
+
+Reliance’s Jio Money is a semi-closed prepaid wallet that will enable mobile based transactions, like any other mobile wallet. Where customers can store money and use it for purchasing goods and services, can’t withdraw money from the wallet. R-Pay offers two services i.e. R-Pay Card and R-Pay Wallet; R-Pay card is a prepaid account in which one can load money, pay for purchases and send money to other R-Pay users and to Bank accounts. Whereas, R-Pay Wallet is a virtual digital wallet that stores R-Pay Card, credit, debit cards and bank accounts details and facilitates payments at online and physical merchants. R-Pay Wallet is offering two types of plans i.e. R-Express which will allow users to load or spend INR 10,000 per month and R-Premium which allows users to load or spend up to INR 50,000 on a daily basis.
+
+		Responsibilities:
+
+Designing the business scripts for the client specified scenarios
+
+Involved in all major Enhancements like Correlation and Parameterization
+
+Involved in designing Load Test Scenarios and executed the designed scenarios in Controller.
+
+Monitored the servers by using the Oracle Grid.
+
+Involved in debugging the failed scripts while doing the Executions.
+
+Collating the results after completing the executions and involved in preparing the reports.
+
+Generating the Analysis reports and analyzing the performance issues in the servers.
+
+Creating the tickets in HP QC and posting the defects.
+
+
+
+
+
+Project 5
+
+
+
+Title				:	MOTOROLA
+
+Client				:	Motorola, USA
+
+Environment			:	.Net, Oracle EBS, OBIEE.
+
+Performance Tool		:	LoadRunner 11.00, HP ALM
+
+Server Monitoring Too	l	:	PerfMon.
+
+Role				:	Team Member
+
+Protocol			:	Web(HTTP/HTML), Oracle NCA
+
+
+
+Description:
+
+	
+
+	Motorola is an Oracle EBS and OBIEE applications. In Motorola we are working on Oracle EBS Applications and OBIEE. Oracle EBS is used to achieve responsibilities and used to create the super user. In EBS there are two main functionalities one will open in Java Applet Oracle forms and other will open in Web Browser. In Oracle EBS we have created the Purchase Orders, Sales Orders, Sub-Inventories, PO Receipts, Creating IExpenses, Invoice Enquiry etc.,
+
+	Oracle Business Intelligence Enterprise Edition (OBIEE) is a comprehensive business intelligence platform that delivers a full range of capabilities - including interactive dashboards, Reporting. In OBIEE we worked on the Scenarios like Tax Journal Entry, Summary Report, AR Journal Entry Report, Cash Report Summary View, Master Data Comparison etc.,.
+
+		
+
+		Responsibilities:
+
+Designing the business scripts for the client specified scenarios
+
+Involved in all major Enhancements like Correlation and Parameterization
+
+Involved in designing Load Test and executed the designed scenarios in Controller and HP ALM.
+
+Involved in doing the Mock Test for the designed scripts and assigned the Operational Load Generators to the scripts. 
+
+Involved in debugging the failed scripts while doing the Executions.
+
+Executing the Load Test and Stress Testing in HP Controller
+
+Collating the results after completing the executions and involved in preparing the reports.
+
+Creating the tickets in HP ALM and posting the defects.
+
+
+
+
+
+Project 6
+
+
+
+Title				:	Black board.
+
+Client				:	Black board, USA, ATLANTA.
+
+Environment			:	Java, SQL, Linux.
+
+Performance Tool		:	Load Runner 9.50.
+
+Server Monitoring Tool	:	New Relic.
+
+Role				:	Team Member
+
+Protocol			:	Web(HTTP/HTML) 
+
+
+
+Description:
+
+	
+
+	Blackboard is a full-service organization serving the needs of Universities, Colleges and Schools, Teacher practices, and other Academic organizations. Blackboard Practice Management is an enterprise-built registration, scheduling, and billing system that has helped thousands of Academic practices improve cash flow and productivity.
+
+	Workflow preferences can vary from Teacher to Teacher in a Course practice. Blackboard Learning Management Systems allows each Teacher to follow her own workflow, while student information is collected and centrally stored in a standard format. The key objective of this project is to provide world-class Performance Benchmarking, Performance Testing, Capacity Planning, Infrastructure Optimization and Performance Problem Diagnostics.
+
+		
+
+		Responsibilities:
+
+Designing the business scripts
+
+Involved in all major Enhancements like Correlation and Parameterization
+
+Involved in Multi-User Business Scenarios Execution by using Galileo Fusion
+
+Analyzing the Results and preparing the Execution test reports
+
+Involved in Benchmarking test execution.
+
+Involved in changing the app and DB settings to know the various performance results of the application.
+
+Effectively analyzed GC logs and provided necessary recommendations to the client.
+
+Collecting the servers data from New Relic and did the comparison reports for the server nodes.
+
+Creating the tickets in JIRA and assigned to the correct persons
+
+Project 7
+
+
+
+Title		:	ERA (Enhanced Regression Auto)
+
+Client		:	Farmers Insurance Company
+
+Environment	:	Web and Mainframes
+
+Tool		:	Manual Testing
+
+Role		:	Team Member
+
+Protocol	:	Manual Testing             
+
+
+
+Description:
+
+	
+
+	Farmer’s Enhanced Regression for Auto (ERA) project is to ensure functionality of Auto applications are not affected due to release code changes due to Umbrella functionality implementation.  As part of this engagement, ERA testing team would be involved in identifying test scenarios based on identified critical business functionalities, impacted interfaces and enhance current regression suite and author new test objectives for wider regression coverage.
+
+	
+
+		Responsibilities:
+
+Prepare Test Estimates for the project
+
+Prepare Test Plan and Test Strategy documents
+
+Coordinate in analyzing application, perform GAP Analysis, focus     on critical functional areas,  and enhance the regression test suite.
+
+Coordinate in preparing Requirements Traceability Matrix, Identifying business scenarios and Authoring test cases for Regression testing 
+
+Execution of enhanced regression test objectives in different test environments (MA11,  TI51, TSQ1, RA11) as per the release testing cycle calendar
+
+
+
+Personal Profile:
+
+
+
+Name                                             MV Ramana
+
+Father’s Name                               M Gopal Rao.
+
+Date of Birth                                  7th March 1988.
+
+Sex                                                Male.
+
+Marital Status                                Married.                        
+
+
+
+Mvr.07031988@gmail.com                                                    	+91-9620278217
+
+--- End of Document ---
+
+Nagendra T
+Senior Test Analyst - SBSA South Africa, JNB
+Johannesburg, Gauteng - Email me on Indeed: indeed.com/r/Nagendra-T/80de26b5eeb03fd0
+• Over 6+ years of experience in Manual testing on web based, and Client/Server Applications.
+• Experience in Acceptance Testing, Functional Testing, Regression Testing and System Testing.
+• Good testing experience in Agile software development using Scrum methodology.
+• Experience on Supply Chain Management Testing (SAP Testing)
+• Experience of testing in Agile and Waterfall model process.
+• Professional experience in Integration, Functional, Regression, System Testing, UAT Testing, Black Box
+and GUI testing.
+• Extensive experience in developing SQL queries to validate the databases tables and reports data for
+backend database testing.
+• An Efficient team player, coordinating with the peers and team lead.
+• Quick learner and efficient team player, ability to meet deadlines and work under pressure.
+• Creating the Test Plan for the projects.
+• Working and supporting multiple projects at a time.
+• Creating the WBS and HLE Documents.
+• Creating the Test Completion report.
+• Developed high level test matrix based on business requirements, functional and technical
+specifications, and development standards for assigned projects/applications
+• Having Experience in using QC (HP-Quality Center).
+• Having Experience in using UFT/QTP.
+• Strong working experience in Windows NT/2000/XP and UNIX environments
+• Possess excellent team management, communication, and analytical skills
+• Working closely with Software Development team for better understanding of requirements.
+• Help the team in creating and executing Test cases and Test Scripts with minimal documentation and
+specifications.
+Willing to relocate: Anywhere
+
+WORK EXPERIENCE
+
+Senior Test Analyst
+SBSA South Africa, JNB - February 2016 to Present
+Description:
+The Interbank Document Exchange project, previously the Document Exchange Association (DEA) project, is
+to facilitate the implementation of a technology solution (DEA system) with the purpose of reducing potential
+fraud that may result from altered Bank Statements and Pay-Slips provided manually to SBSA.
+Fraud reduction is one of the main drivers of this DEA interbank tamper proof solution, to obtain bank
+statements as credit application supporting documents internally with other banks.
+Responsibilities:
+• Involved in Business analysis and requirements gathering.
+• Creating Test Plans, Test Cases, Test Scenarios and Defect Management to ensure Quality Assurance and
+to test all the business requirements.
+• Escalating data related issues and validating data to improve data quality.
+
+• Validating the data files from source to make sure correct data has been captured to be loaded to target
+tables.
+• Extensively used SOAP UI to test the services involves in sending the Request and Response.
+• Interacting with senior peers or subject matter experts to learn more about the data
+• Ensured that the mappings are correct and conducted data validation testing.
+• Tested functionally through front end systems like to ensure the system responds as per requirements.
+• Participated in regular project status Stand-up MEETINGS and QA status meetings.
+• Delivered the projects in Agile methodology on several sprint releases using Confluence and Jira tools.
+• Prepared daily status reports with details of executed, passed, and failed test cases and defect status.
+• Prepared TCR for each release.
+
+South Africa through HCL Axon South Africa as Senior Test Analyst
+Standard Bank of - June 2013 to Present
+
+Senior Test Analyst
+SBSA South Africa, JNB - October 2015 to January 2016
+Description:
+NDS (New Delivery System)/BDS-Branch Delivery system, a front end system will be used by SBSA branch
+staff for the day to day Branch operations engineering on the internal branch movement processes like Account
+Originations in Customer 1st, Deposits, Withdrawals, Card Issue, Card replacing Account linking, Statements,
+Cheque books issue, EAP limits, Inter Account transfers etc. These features enhance the system to provide
+various services to the SBSA customers using various functionalities.
+'Automation of Banking' is used to automate the Operations in banking domain. This Project contains
+four types of users. They are Admin, Banker, Customer, and Visitor. Admin module is used to define and
+customize the master data like Branches, Roles, Users and Employee related to bank. Admin can Create
+Modify and Delete any branch, user, Role and Employee Details and also admin can search for branches
+information and User Information based on the given selection criteria.
+Banker module is used to automate the banker daily activities like withdraw the customer amount,
+deposit the customer amount and Cheque book Request from customer etc. Customer module is used to offer
+different services to customer in online like Balance enquiry, Fund transfer, and cheque book Request etc.
+Visitor module used for visitors to see the useful information like personal banking information, corporate
+banking information, internet banking information and Terms and conditions etc.
+Responsibilities:
+• Involved in Business analysis and requirements gathering.
+• Creating Test Plans, Test Cases, Test Scenarios and Defect Management to ensure Quality Assurance and
+to test all the business requirements.
+• Validating the data files from source to make sure correct data has been captured to be loaded to target
+tables.
+• Ensured that the mappings are correct and conducted data validation testing.
+• Tested functionally through front end systems like NDS and Customer 1st to ensure the system
+responds as per requirements.
+• Participated in regular project status Stand-up MEETINGS and QA status meetings.
+• Delivered the projects in Agile methodology on several sprint releases using Confluence and Jira tools.
+• Automated some needful functionality to test using UFT/QTP tool to write scripts and execution.
+• Prepared daily status reports with details of executed, passed, and failed test cases and defect status.
+• Prepared TCR for each release.
+
+Test Analyst
+
+Standard Bank of South Africa, JNB - April 2015 to September 2015
+Description:
+The ID Verification project was previously known as the online fingerprint verification (OFV) Project.
+OFV devices were rolled out to specific branches in 2011. The purpose of OFV was to scan customers'
+fingerprints in order to facilitate the verification of the customer's fingerprints against the Department of
+Home Affairs' (DHA) database.
+The objective of this verification was to minimize the risk of fraudulent transactions due to identity theft.
+Fingerprint verification would also assist in minimizing the occurrence of information leakage. This project
+would have ideally met several strategic Standard Bank drivers such as the protection of revenue, improved
+customer experience and a probable improvement in the bank's reputation and brand in the market place.
+Responsibilities:
+• Involved in Business analysis and requirements gathering.
+• Creating Test Plans, Test Cases, Test Scenarios and Defect Management to ensure Quality Assurance and
+to test all the business requirements.
+• Escalating data related issues and validating data to improve data quality.
+• Extensively used SOAP UI to test the services involves in sending the Request and Response.
+• Interacting with senior peers or subject matter experts to learn more about the data
+• Ensured that the mappings are correct and conducted data validation testing.
+• Tested functionally through front end systems like to ensure the system responds as per requirements.
+• Participated in regular project status Stand-up MEETINGS and QA status meetings.
+• Delivered the projects in Agile methodology on several sprint releases using Confluence and Jira tools.
+• Prepared daily status reports with details of executed, passed, and failed test cases and defect status.
+• Prepared TCR for each release.
+Project: My Updates Biz
+
+Test Analyst
+Standard Bank of South Africa, JNB - September 2014 to March 2015
+Description:
+My updates BIZ is additional feature to Business banking account holders to register, manage the account
+transaction notifications, registration of recipients and update the recipient's details. The notifications will be
+catered in different type of modes i.e Mobile, Email, Fax.
+Responsibilities:
+• Understood the requirements of project with the help of FSS / TSS documents.
+• Identifying the Scope of the project.
+• Scheduling the Project walk thought with BA and Developers.
+• Preparation of Test Plan and WBS for project.
+• Designing the requirements and Test cases in QC.
+• Preparation of Test data and Test Environment access.
+• Execution of Test case in Test lab.
+• Reporting the defects to concern Module developers.
+• Attending the Daily project status meetings.
+• Follow up with the developers to fix Defects with in the Test execution timelines.
+• Prepared daily status reports with details of executed, passed, and failed test cases and defect status.
+• Preparation of Test completion Report.
+
+Test Analyst
+Standard Bank of South Africa, JNB - January 2014 to August 2014
+Description:
+The scope includes the screens and tasks a customer will be required to complete while performing a cheque
+deposit without an envelope at an ANA enabled ATM. It also includes the error screens all possible negative
+scenarios .Customers will receive a receipt when a deposit is made successfully, or when the deposit is
+cancelled and cheques returned. High-contrast screens are included in the scope.
+Afrikaans and isiZulu are part of the scope of the project. Please refer to the dictionary document from business
+for the English, Afrikaans and isiZulu screen texts as well as the English and Afrikaans receipts.
+Responsibilities:
+• Understood the requirements of project with the help of FSS / TSS documents.
+• Preparing and Executing the Test cases in QC.
+• Gathering the Technical integration information from TSS and developers and convert them into test
+cases.
+• Performing Sanity, GUI, Functional and Regression Testing.
+• Modifying the test cases and scenarios as per new change request.
+• Defect logging, reporting and tracking.
+• Involved in Project status meeting on weekly basis.
+• Follow up with the developers to fix Defects with in the Test execution timelines.
+• Prepared daily status reports with details of executed, passed, and failed test cases and defect status.
+• Preparing the TCR report.
+
+Senior Test Analyst
+SBSA South Africa, JNB - June 2013 to December 2013
+Description:
+Currently Standard Bank does not cater for Holding Company (''HoldCo'') accounts. Creating a Holding
+Company account in ZAR will assist in bringing foreign currency balances and liquidity back into the SA market
+and improve our footprint into Africa for our multinational clients.
+Responsibilities:
+• Involved in Business analysis and requirements gathering.
+• Creating Test Plans, Test Cases, Test Scenarios and Defect Management to ensure Quality Assurance and
+to test all the business requirements.
+• Escalating data related issues and validating data to improve data quality.
+• Validating the data files from source to make sure correct data has been captured to be loaded to target
+tables.
+• Extensively used SOAP UI to test the services involves in sending the Request and Response.
+• Interacting with senior peers or subject matter experts to learn more about the data
+• Ensured that the mappings are correct and conducted data validation testing.
+• Tested functionally through front end systems like to ensure the system responds as per requirements.
+• Participated in regular project status Stand-up MEETINGS and QA status meetings.
+• Delivered the projects in Agile methodology on several sprint releases using Confluence and Jira tools.
+• Prepared daily status reports with details of executed, passed, and failed test cases and defect status.
+• Prepared TCR for each release.
+
+Test Analyst
+GLOBAL TECHNO MINDS - September 2011 to May 2013
+Worked for CAPGEMINI IND PVT.LTD, as an Associate consultant since June 2010 to August 2011
+
+Technical Skills:
+Operating Systems: Windows 95/98/2000/NT/XP, UNIX, Linux, Sun Solaris
+Languages: SQL, PL/SQL, C, Cobol
+Testing Tools: HP Quality Center12.01, Rational Clear Quest, and Bugzilla
+Databases: SQL Server 2005/08/12, DB2
+Database Tools: TOAD 7.0, SQL Navigator 6.4
+Web Design: HTML, XML, VBScript
+
+EDUCATION
+
+Masters in ANU
+Nagarjuna University
+2011
+JNTU University
+2004
+
+
+
+--- End of Document ---
+

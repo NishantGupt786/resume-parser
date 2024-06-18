@@ -2,21 +2,21 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Upload Document</title>
+    <title>Upload File</title>
 </head>
 <body>
-    <h1>Upload Document</h1>
-    <form action="/" method="post" enctype="multipart/form-data">
-        <input type="file" name="file" accept=".pdf,.docx,.rtf">
+    <h1>Upload new File</h1>
+    <form method="post" enctype="multipart/form-data">
+        <input type="file" name="files" multiple accept=".pdf,.docx,.rtf">
         <br>
-        <label for="tool">Choose the extraction tool:</label>
+        <label for="tool">Select Tool:</label>
         <select name="tool" id="tool">
             <option value="textract">Textract</option>
-            <option value="llmsherpa">LLMSherpa (PDF only)</option>
-            <option value="pdfminer">pdfminer (PDF only)</option>
-            <option value="spire">Spire (DOCX only)</option>
+            <option value="llmsherpa">LLM Sherpa (PDF only)</option>
+            <option value="spire">Spire (Docx only)</option>
+            <option value="pdfminer">PDFMiner (PDF only)</option>
         </select>
-        <br>
+       
         <input type="submit" value="Upload">
     </form>
 </body>

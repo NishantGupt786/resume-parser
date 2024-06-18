@@ -5,6 +5,7 @@ import textract
 import os
 import re
 from spire.doc import Document
+from pdfminer.high_level import extract_text
 
 app = Flask(__name__)
 
@@ -59,6 +60,8 @@ def upload_file():
                 elif tool == 'spire':
                     if file_extension == 'docx':
                         text = extract_text_from_docx_spire(filepath)
+                elif tool == 'pdfminer':
+                    text = extract_text(filepath)
                 else:
                     print(f"Using textract to extract text from {filepath}")
                     text = extract_text_with_textract(filepath)
